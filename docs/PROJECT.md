@@ -43,7 +43,7 @@ React · TypeScript · Vinext · Vite · Cloudflare Workers · YouCam AI Clothes
 
 ## Links — complete before submission
 App: https://rihla-jordan-essam.husheddegu256.chatgpt.site/ (currently owner-private; judge access must be arranged).
-Public GitHub: pending.
+Public GitHub: https://github.com/essamsalah/rihla-app.
 Public demo video: pending.
 
 ## AI assistance disclosure
